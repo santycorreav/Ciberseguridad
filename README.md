@@ -14,12 +14,10 @@ Este repositorio contiene un compendio personal de resúmenes, ejercicios y voca
 │   │   ├──── 📄 clase2.pdf  
 │   │   ├──── 📄 clase3.pdf  
 │   │   ├──── 📄 clase4.pdf  
-│   │   ├──── 📄 clase5.pdf  
-│   │   ├──── 📄 clase6.pdf  
-│   │   ├──── 📄 clase7.pdf  
-│   │   ├──── 📄 clase8.pdf  
-│   │   ├──── 📄 clase9.pdf  
-│   │   └──── 📄 clase10.pdf  
+│   │   ├──── ...  
+│   │   ├──── ...  
+│   │   ├──── 📄 clase(n-1).pdf  
+│   │   └──── 📄 clase(n).pdf  
 │   ├── 🗂 talleres_a_realizar     → Actividades y ejercicios prácticos para desarrollar  
 │   │   ├──── 📄 taller1.pdf  
 │   │   ├──── 📄 taller2.pdf  
