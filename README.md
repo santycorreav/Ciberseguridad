@@ -11,9 +11,7 @@ Este repositorio contiene un compendio personal de resúmenes, ejercicios y voca
 ├── 🗂 basica                       → Contenido de nivel básico  
 │   ├── 🗂 resumenes_clases         → Resúmenes redactados y explicados por el autor  
 │   │   ├──── 📄 clase1.pdf  
-│   │   ├──── 📄 clase2.pdf  
-│   │   ├──── 📄 clase3.pdf  
-│   │   ├──── 📄 clase4.pdf  
+│   │   ├──── 📄 clase2.pdf 
 │   │   ├──── ...  
 │   │   ├──── ...  
 │   │   ├──── 📄 clase(n-1).pdf  
