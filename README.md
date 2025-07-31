@@ -6,10 +6,6 @@ Este repositorio contiene un compendio personal de resúmenes, ejercicios y voca
 
 ## 🗂 Estructura del repositorio
 
-## 🗂 Estructura del repositorio
-
-## 🗂 Estructura del repositorio
-
 ├── 🗂 basica                       → Contenido de nivel básico  
 │   ├── 🗂 resumenes_clases         → Resúmenes redactados y explicados por el autor  
 │   │   ├── 📄 clase1.pdf  
