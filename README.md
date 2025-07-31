@@ -1,6 +1,6 @@
 # Apuntes del Bootcamp de Ciberseguridad
 
-Este repositorio contiene un compendio personal de resúmenes, ejercicios y vocabulario técnico en inglés, basado en la estructura de un programa de formación en ciberseguridad. Todo el contenido ha sido reescrito, ampliado y organizado por **Santiago Correa Vergara** con fines estrictamente educativos y no comerciales.
+Este repositorio contiene un compendio personal de resúmenes, ejercicios y vocabulario técnico en inglés, basado en la estructura de un programa de formación en ciberseguridad. Todo el contenido ha sido reescrito, ampliado y organizado con fines estrictamente educativos y no comerciales.
 
 ⚠️ Este material no es oficial. Es un proyecto independiente de aprendizaje.
 
