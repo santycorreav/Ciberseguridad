@@ -10,22 +10,22 @@ Este repositorio contiene un compendio personal de resúmenes, ejercicios y voca
 
 ├── 🗂 basica                       → Contenido de nivel básico  
 │   ├── 🗂 resumenes_clases         → Resúmenes redactados y explicados por el autor  
-│   │   ├── 📄 clase1.pdf  
-│   │   ├── 📄 clase2.pdf  
-│   │   ├── 📄 clase3.pdf  
-│   │   ├── 📄 clase4.pdf  
-│   │   ├── 📄 clase5.pdf  
-│   │   ├── 📄 clase6.pdf  
-│   │   ├── 📄 clase7.pdf  
-│   │   ├── 📄 clase8.pdf  
-│   │   ├── 📄 clase9.pdf  
-│   │   └── 📄 clase10.pdf  
+│   │   ├──── 📄 clase1.pdf  
+│   │   ├──── 📄 clase2.pdf  
+│   │   ├──── 📄 clase3.pdf  
+│   │   ├──── 📄 clase4.pdf  
+│   │   ├──── 📄 clase5.pdf  
+│   │   ├──── 📄 clase6.pdf  
+│   │   ├──── 📄 clase7.pdf  
+│   │   ├──── 📄 clase8.pdf  
+│   │   ├──── 📄 clase9.pdf  
+│   │   └──── 📄 clase10.pdf  
 │   ├── 🗂 talleres_a_realizar     → Actividades y ejercicios prácticos para desarrollar  
-│   │   ├── 📄 taller1.pdf  
-│   │   ├── 📄 taller2.pdf  
-│   │   └── 📄 taller3.pdf  
+│   │   ├──── 📄 taller1.pdf  
+│   │   ├──── 📄 taller2.pdf  
+│   │   └──── 📄 taller3.pdf  
 │   └── 🗂 vocabulario_ingles      → Términos clave en inglés relacionados con ciberseguridad  
-│       └── 📄 vocabulario.pdf  
+│       └──── 📄 vocabulario.pdf  
 ├── 🗂 intermedia                  → Contenido de nivel intermedio (en desarrollo)  
 ├── 📘 LICENSE.md                 → Licencia del repositorio  
 └── 📘 README.md                  → Archivo principal con la descripción del proyecto
