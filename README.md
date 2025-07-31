@@ -5,12 +5,14 @@ Este repositorio contiene un compendio personal de resúmenes, ejercicios y voca
 ⚠️ Este material no es oficial. Es un proyecto independiente de aprendizaje.
 
 ## 🗂Estructura del repositorio
-.
-├── 🗂 basica                       → Nivel básico  
-│   ├── 🗂 resumenes_clases         → Resúmenes reescritos y explicados por el autor  
-│   ├── 🗂 talleres_a_realizar      → Actividades y ejercicios prácticos para desarrollar  
-│   └── 🗂 vocabulario_ingles       → Términos clave en inglés relacionados con ciberseguridad  
-└── 🗂 intermedia                   → Contenido de nivel intermedio (en desarrollo)
+
+├── 🗂 basica                         → Nivel básico  
+│   ├──── 🗂 resumenes_clases         → Resúmenes reescritos y explicados por el autor  
+│   ├──── 🗂 talleres_a_realizar      → Actividades y ejercicios prácticos para desarrollar  
+│   └──── 🗂 vocabulario_ingles       → Términos clave en inglés relacionados con ciberseguridad  
+└── 🗂 intermedia                     → Contenido de nivel intermedio (en desarrollo)
+└── LICENSE.md                        → Licencia del repositorio
+└── README.md                         → El leeme del repositorio
 
 ## Temas abordados
 
