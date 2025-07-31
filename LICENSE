@@ -1,28 +1,38 @@
-# Licencia
+# LICENSE
 
-Este documento se distribuye bajo los términos de la licencia [Creative Commons Atribución - No Comercial - Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
+## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Esto significa que cualquier persona puede copiar, redistribuir y traducir el material con fines no comerciales, siempre y cuando se otorgue el crédito correspondiente al autor original y las obras derivadas se distribuyan bajo la misma licencia.
+This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## ✅ Permite:
-- Copiar y redistribuir el material en cualquier medio o formato.
-- Traducirlo a otros idiomas.
-- Usarlo con fines educativos, personales o académicos.
+You are free to:
 
-## ❌ No permite:
-- Uso comercial del contenido.
-- Modificación con fines distintos a los permitidos.
-- Redistribución del material con una licencia diferente.
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material  
+  **Only under the following terms**:
+  - You must give appropriate **credit** to the original author.
+  - You **may not** use the material for **commercial purposes**.
+  - If you remix, transform, or build upon the material, you must distribute your contributions under the **same license** as the original.
+
+## Summary
+
+This project contains educational content written by **Santiago Correa Vergara**, based on personal experience and extended research during cybersecurity training. While the structure loosely follows publicly available government bootcamp formats, the explanations, insights, and additional content are original and do **not** reproduce copyrighted material.
+
+## You May:
+- Use this content **for academic and non-commercial purposes**
+- Share and translate the material
+- Use it to teach or learn
+
+## You May Not:
+- Use it for **commercial** gain
+- Modify the core content without maintaining the same license
+- Redistribute the material under a **different license**
+
+## Author
+Santiago Correa Vergara  
+Email: [Your contact if you want to add it]  
+License Version: CC BY-NC-SA 4.0  
+Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 ---
 
-**Autor:** Santiago Correa Vergara  
-**Licencia completa:** [https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
-
----
-
-## Nota legal
-
-Este repositiorio ha sido elaborado como un resumen y material complementario basado en la experiencia personal del autor durante un proceso de formación en ciberseguridad. Aunque se ha seguido una estructura temática similar a la de ciertos programas educativos públicos, todo el contenido ha sido reescrito, ampliado y explicado por el autor, sin reproducir directamente ningún material protegido por derechos de autor.
-
-El propósito es estrictamente académico y no comercial.
+> **Legal Note**: This license grants rights under copyright only. You still need permission for other rights, such as publicity, privacy, or moral rights where applicable. This document is provided "as-is" without warranties.
