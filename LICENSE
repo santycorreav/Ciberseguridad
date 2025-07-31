@@ -4,35 +4,41 @@
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-You are free to:
+### Summary of Terms
 
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material  
-  **Only under the following terms**:
-  - You must give appropriate **credit** to the original author.
-  - You **may not** use the material for **commercial purposes**.
-  - If you remix, transform, or build upon the material, you must distribute your contributions under the **same license** as the original.
+You are **free to**:
 
-## Summary
+- **Share** — copy, redistribute, and translate the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material.
 
-This project contains educational content written by **Santiago Correa Vergara**, based on personal experience and extended research during cybersecurity training. While the structure loosely follows publicly available government bootcamp formats, the explanations, insights, and additional content are original and do **not** reproduce copyrighted material.
+**Under the following conditions**:
 
-## You May:
-- Use this content **for academic and non-commercial purposes**
-- Share and translate the material
-- Use it to teach or learn
+- **Attribution** — You must give appropriate credit to the original author.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **ShareAlike** — If you modify or build upon this work, you must distribute your contributions under the same license.
 
-## You May Not:
-- Use it for **commercial** gain
-- Modify the core content without maintaining the same license
-- Redistribute the material under a **different license**
+### You May:
 
-## Author
-Santiago Correa Vergara  
-Email: [Your contact if you want to add it]  
-License Version: CC BY-NC-SA 4.0  
-Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+- Use this material for **educational and non-commercial purposes**.
+- Translate or adapt it for learning or teaching.
+- Share it as long as you credit the author and use the same license.
+
+### You May Not:
+
+- Use it for **commercial** purposes.
+- Redistribute modified versions under a **different license**.
+- Modify its core meaning or content for unrelated uses.
 
 ---
 
-> **Legal Note**: This license grants rights under copyright only. You still need permission for other rights, such as publicity, privacy, or moral rights where applicable. This document is provided "as-is" without warranties.
+### Legal Note
+
+This document has been created as a personal summary and supplementary material based on the author's experience during a cybersecurity training process. Although it follows a structure similar to that of publicly available programs, all content has been rewritten, expanded, and explained by the author. No copyrighted material is directly reproduced.
+
+Its purpose is strictly **educational** and **non-commercial**.
+
+---
+
+**Author**: Santiago Correa Vergara  
+**License Version**: CC BY-NC-SA 4.0  
+**Full License Text**: [https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
