@@ -44,4 +44,4 @@ Este repositorio contiene un compendio personal de resúmenes, ejercicios y voca
 
 ## Autor
 
-**Santiago Correa Vergara**  
+**Santiago Correa Vergara/FractalMadness**  
